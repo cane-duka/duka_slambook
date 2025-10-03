@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 2px double rgb(19, 45, 215);
+}
+legend {
+    color: rgb(92, 186, 34);
+}
+.first {
+    width: 1900px;
+    border: 2px solid rgb(92, 186, 34);
+    padding-top:10px;
+    padding-left:5px ;
+    text-align: left;
+    margin: auto;
+    background-color: rgb(11, 11, 11);
+    color: rgb(92, 186, 34);
+}
+.card {
+    background-color: rgb(11, 11, 11);
+}
